@@ -53,13 +53,13 @@
 ### Abraham Wald and the missing bullet holes:
 - Abraham Wald, a statistician, was asked to help the military determine how to best armor their aircraft to increase their chances of surviving enemy attacks. The military initially proposed reinforcing areas that showed the most damage on returning planes. However, Wald suggested a counterintuitive approach.
 - Key points of Abraham's suggestion:
--- Observation of Damage: Wald noted that the military was only considering planes that returned from missions. These planes represented "survivors."
--- Survivorship Bias: The critical insight was that the areas where these planes showed no damage were likely the areas that, if hit, would cause a plane not to return at all. This is a prime example of survivorship bias, where decisions are made based on an incomplete view of data.
--- Reinforcement Recommendation: Wald recommended reinforcing areas where the returning planes were undamaged, arguing that planes hit in these areas were the ones not making it back.
+    - Observation of Damage: Wald noted that the military was only considering planes that returned from missions. These planes represented "survivors."
+    - Survivorship Bias: The critical insight was that the areas where these planes showed no damage were likely the areas that, if hit, would cause a plane not to return at all. This is a prime example of survivorship bias, where decisions are made based on an incomplete view of data.
+    - Reinforcement Recommendation: Wald recommended reinforcing areas where the returning planes were undamaged, arguing that planes hit in these areas were the ones not making it back.
 
 - Learnings:
--- Survivorship Bias Recognition: It highlights the need to recognize and account for survivorship bias when analyzing data. Decisions should be based on all possible information, including understanding what data might be missing and why.
--- Counterintuitive Thinking: Wald’s approach demonstrates that sometimes the best solutions come from thinking contrary to initial assumptions.
--- Application of Statistical Thinking: This story is a testament to how statistical thinking can lead to better decision-making strategies in critical situations, such as military tactics.
+    - Survivorship Bias Recognition: It highlights the need to recognize and account for survivorship bias when analyzing data. Decisions should be based on all possible information, including understanding what data might be missing and why.
+    - Counterintuitive Thinking: Wald’s approach demonstrates that sometimes the best solutions come from thinking contrary to initial assumptions.
+    - Application of Statistical Thinking: This story is a testament to how statistical thinking can lead to better decision-making strategies in critical situations, such as military tactics.
 
 This section of the book fundamentally argues that mathematics is not just an academic subject but a vital skill that enhances our understanding of the world and improves our decision-making capabilities in all aspects of life.
