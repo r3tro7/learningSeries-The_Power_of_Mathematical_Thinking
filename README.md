@@ -4,7 +4,7 @@
 "How Not to Be Wrong: The Power of Mathematical Thinking" by Jordan Ellenberg is a compelling exploration into how mathematics affects our daily lives. The book unveils the hidden beauty and logic of math, showing us that mathematical thinking is not just about numbers and equations but about improving our thinking to make better decisions. Through engaging stories and without the typical jargon, Ellenberg reveals how mathematical principles can illuminate a wide array of topics—from politics and health to gambling and religion—providing us with the tools to more effectively think about the world around us.
 
 ## Table of Contents
-1. [When am I going to use this?](#when-am-I-going-to-use-this?) ✔️
+1. [When am I going to use this?](#ch0) ✔️
 
 2. **Part I: Linearity**
    - **Chapter 1: Less Like Sweden**
@@ -34,7 +34,7 @@
    - **Chapter 17: There Is No Such Thing as Public Opinion**
    - **Chapter 18: Out of Nothing, I Have Created a Strange New Universe**
 
-## When am I going to use this?
+## <a name="ch0">When am I going to use this?</a>
 
 - **Everyday Decision Making**: Ellenberg explains that the principles of mathematics help us assess risks, plan strategies, and understand the likelihood of various outcomes in complex situations.
 
